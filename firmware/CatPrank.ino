@@ -1,4 +1,5 @@
-/* 	Cat Prank
+/* 	
+	Cat Prank
 	Reuben Strangelove
 	Fall 2019
 
@@ -27,12 +28,11 @@
 			high value: light
 
 	Notes:
-    Device is powered on by a remote control relay.
+    		Device is powered on by a remote control relay.
 		Beeps after angry cat to alert user to power down device.
 
-   TODO:
-    Query sound module for playing status for meow repeats.
-    This will support future meows of different lengths.
+	TODO:
+		Query sound module for playing status to support meows of different lengths.
 */
 
 // Setting DEBUG to 1 prints debug data, sound will not work.
